@@ -1,0 +1,17 @@
+{
+  "name": "vuemet",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0",
+    "cross-env": "^5.2.0",
+    "meteor-node-stubs": "^0.4.1",
+    "uikit": "^3.0.0-rc.20",
+    "vue": "^2.5.17",
+    "vue-meteor-tracker": "^1.0.3",
+    "vue-router": "^3.0.0"
+  },
+  "devDependencies": {}
+}
