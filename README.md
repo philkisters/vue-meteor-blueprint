@@ -1,6 +1,6 @@
 # Vue-Meteor-Blueprint
 
-This Repository gives you a Blueprint for creating Onepager-Applications with the [MeteorJS](https://www.meteor.com) Framework, (VueJS)[https://vuejs.org] and (UIkit2)[https://getuikit.com].
+This Repository gives you a Blueprint for creating Onepager-Applications with the [MeteorJS](https://www.meteor.com) Framework, [VueJS](https://vuejs.org) and [UIkit2](https://getuikit.com).
 
 ## Setting everything up
 
